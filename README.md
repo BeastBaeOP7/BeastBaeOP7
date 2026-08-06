@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gautham G</h1>
 
-<h3 align="center">Building AI Products that Solve Real Problems</h3>
-
 <p align="center">
-AI Engineer • Agentic AI • Backend Development • Machine Learning
+  <a href="https://git.io/typing-svg">
+    <img src="YOUR_GENERATED_LINK_HERE" alt="Typing SVG" />
+  </a>
 </p>
 
----
+## 👨‍💻 About Me
+...
 
 ## 👨‍💻 About Me
 
