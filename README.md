@@ -45,9 +45,9 @@ I'm an **AI Engineer** passionate about building intelligent systems that solve 
 **Also Experienced With**
 
 - LangGraph
-- LangChain
-- Scikit-Learn
-- XGBoost
+- LLM's
+- Agentic AI
+- Deep Learning
 - OpenCV
 - ChromaDB
 - HuggingFace
@@ -65,7 +65,7 @@ I'm an **AI Engineer** passionate about building intelligent systems that solve 
 ### Database & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,aws,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,aws,docker,git" />
 </p>
 
 ---
@@ -109,11 +109,11 @@ I'm an **AI Engineer** passionate about building intelligent systems that solve 
 
 <p>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/gautham-gopi7/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:gauthamgaurav1234@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
