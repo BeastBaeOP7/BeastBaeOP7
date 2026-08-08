@@ -16,11 +16,7 @@ I like taking interesting problems and turning them into **working AI products**
 
 My projects sit at the intersection of:
 
-🤖 **Agentic AI**  
-🧠 **Machine Learning**  
-📚 **RAG & LLM Systems**  
-⚡ **Backend Engineering**  
-☁️ **Cloud & AI Infrastructure**
+🤖 **Agentic AI** · 🧠 **Machine Learning** · 📚 **RAG & LLM Systems** · ⚡ **Backend Engineering** · ☁️ **Cloud & AI Infrastructure**
 
 I've built systems across **healthcare, legal tech, recruitment, enterprise intelligence, finance, and computer vision**.
 
@@ -28,14 +24,10 @@ I've built systems across **healthcare, legal tech, recruitment, enterprise inte
 
 ## ⚡ Currently Building
 
-```text
-🤖 Multi-Agent AI Systems
-📚 Advanced RAG Pipelines
-🏥 Healthcare AI
-⚖️ Legal Document Intelligence
-☁️ Cloud-Native AI Applications
-🧩 AI Evaluation & Reliability Systems
-```
+| 🤖 Agentic AI | 📚 Advanced RAG |
+|---|---|
+| 🏥 Healthcare AI | ⚖️ Legal Intelligence |
+| ☁️ Cloud-Native AI | 🧩 AI Reliability & Evaluation |
 
 ---
 
@@ -55,14 +47,15 @@ I've built systems across **healthcare, legal tech, recruitment, enterprise inte
 ### 🧠 Machine Learning & Deep Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-189C45?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SHAP-6C5CE7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & APIs
@@ -97,7 +90,7 @@ I've built systems across **healthcare, legal tech, recruitment, enterprise inte
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,mysql" />
 </p>
 
 ---
@@ -152,7 +145,7 @@ I've built systems across **healthcare, legal tech, recruitment, enterprise inte
 
 ---
 
-## 🧪 Other Projects
+## 🧪 More Things I've Built
 
 🔬 **HemaVision** — Explainable AI for blood cell disease prediction
 
@@ -174,15 +167,7 @@ I've built systems across **healthcare, legal tech, recruitment, enterprise inte
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BeastBaeOP7&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BeastBaeOP7/BeastBaeOP7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://streak-stats.demolab.com?user=BeastBaeOP7&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -206,10 +191,10 @@ I've built systems across **healthcare, legal tech, recruitment, enterprise inte
 # 🤝 Let's Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/gautham-gopi7">
+  <a href="https://www.linkedin.com/in/gautham-gopi7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="gauthamgaurav1234@gmail.com">
+  <a href="mailto:gauthamgaurav1234@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
