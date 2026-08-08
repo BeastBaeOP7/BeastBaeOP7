@@ -170,6 +170,9 @@ I've built systems across **healthcare, legal tech, recruitment, enterprise inte
   <img src="https://streak-stats.demolab.com?user=BeastBaeOP7&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BeastBaeOP7/BeastBaeOP7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 ---
 
 # 🎯 A Little More About Me
